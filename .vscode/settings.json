@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "2_incluirinfo.h": "c",
+    "0_struct_descritor.h": "c",
+    "trie.h": "c",
+    "12_desenhaarvore.h": "c",
+    "11_desenhaarvoretrie.h": "c",
+    "1_criararvore.h": "c",
+    "4_buscarinfo.h": "c",
+    "6_lista_chaves.h": "c",
+    "5_excluirchave.h": "c",
+    "3_excluirinfo.h": "c",
+    "utils.h": "c",
+    "6_buscachaves.h": "c",
+    "10_trie_functions.h": "c",
+    "7_calculapontos.h": "c",
+    "8_ordenalista.h": "c"
+  }
+}
